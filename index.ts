@@ -1,3 +1,3 @@
-import Utils from './src'
+import JsonDiff from './src'
 
-export { Utils as default }
+export { JsonDiff as default }
